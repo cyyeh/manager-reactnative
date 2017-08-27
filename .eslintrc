@@ -1,0 +1,6 @@
+{
+	"extends": "rallycoding",
+	"rules": {
+		"arrow-body-stye": 0
+	}
+}
